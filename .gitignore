@@ -1,0 +1,4 @@
+# Registro de archivos y directorios a ser ignorados por Git
+
+config.php
+libs/
